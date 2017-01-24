@@ -9,7 +9,8 @@ Circular Pong is a spin off of the original game Pong, but is a single player ve
 With Circular Pong, users will be able to :
 
 - [ ] Start the game
-- [ ] Choose which direction they want to move their  paddle
+- [ ] Choose which direction they want to move their
+paddle
 - [ ] See their score
 - [ ] Mute the music
 
