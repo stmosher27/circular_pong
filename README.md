@@ -2,14 +2,14 @@
 
 #### Background
 
-Circular Pong is a spin off of the original game Pong, but is a single player version.  The idea is that instead of moving side to side to send the ball back to your opponent, you will move around a circle to hit it back to yourself.  The goal of the game is to keep the ball in the circle.
+Circular Pong is a spin off of the original game Pong, but is a single player version.  The idea is that instead of moving side to side to send the ball back to your opponent, you will move your paddle around a circle to hit the ball back towards the middle of the circle.  The goal of the game is to keep the ball in the circle.
 
 #### Functionality & MVP
 
 With Circular Pong, users will be able to :
 
 - [ ] Start the game
-- [ ] Choose which direction they want to move their paddle
+- [ ] Choose which direction they want to move their  paddle
 - [ ] See their score
 - [ ] Mute the music
 
@@ -21,7 +21,7 @@ In addition, Circular Pong will include:
 
 This app will consist of a game board and a title.  It will also have links to github and linkedin.
 
-![wireframes](./images/game.png)
+![wireframes](./images/js_project.png)
 
 #### Architecture and Technologies
 
