@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/stmosher27/js_project/issues"
   },
-  "homepage": "https://github.com/stmosher27/js_project#readme"
+  "homepage": "https://github.com/stmosher27/js_project#readme",
+  "dependencies": {
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "lodash": "^4.17.4",
+    "webpack": "^1.14.0"
+  }
 }
