@@ -1,5 +1,35 @@
 .game {
   display: flex;
   justify-content: center;
+  flex-direction: column;
   align-items: center;
+}
+
+.title {
+  font-size: 28px;
+  font-weight: bold;
+  font-family: fantasy;
+  margin-bottom: 0;
+}
+
+.personal-links {
+  display: flex;
+  width: 500px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.directions h4 {
+    font-family: fantasy;
+}
+
+
+.git-img {
+  height: 40px;
+  width: 40px;
+}
+
+.linked-img {
+  height: 40px;
+  width: 40px;
 }
