@@ -15,6 +15,11 @@ With Circular Pong, users will be able to :
 paddle
 - See their score
 
+![paddle](assets/images/paddle.png)
+![collision_check](assets/images/update_angle.png)
+![collision_check](assets/images/collision_check.png)
+![collision_check](assets/images/run_game.png)
+
 
 #### Architecture and Technologies
 
