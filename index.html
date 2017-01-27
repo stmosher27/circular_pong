@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>Circular Pong</title>
     <link rel="stylesheet" href="assets/stylesheets/game.css" />
+    <link rel="stylesheet" href="assets/stylesheets/modal.css" />
   </head>
   <body>
     <script type="text/javascript" src="lib/bundle.js" charset="utf-8"></script>
@@ -13,10 +14,27 @@
         <h1 class="title"> Circular Pong </h1>
         <a href="https://www.linkedin.com/in/scott-mosher-b92367130?trk=nav_responsive_tab_profile"><img class="linked-img" src="https://lh3.googleusercontent.com/00APBMVQh3yraN704gKCeM63KzeQ-zHUi5wK6E9TjRQ26McyqYBt-zy__4i8GXDAfeys=w300" alt="linkedin"></img></a>
       </div>
+      <a class="modal-button" href="#openModal">Under the Hood</a>
       <canvas id="board" width="450" height="450"></canvas>
       <div class="directions">
         <h4>Click Enter to restart game!</h4>
         <h4>Click Space to change direction of your paddle</h4>
+      </div>
+
+
+      <div id="openModal" class="modalDialog">
+      	<div class="body">
+          <a href="#close" class="close">X</a>
+          <div class="body-contents">
+            <h3>Calculate the new position of user paddle after each interval<h3>
+        		<img src="./assets/images/paddle.png" alt="paddle" height="330" width="330">
+            <h3>Calculate the angle of the ball in radians once a collision occurs</h3>
+            <img src="./assets/images/update_angle.png" alt="angle" height="230" width="500">
+            <h3>Continually rerender new game state and check for collisions</h3>
+        		<img src="./assets/images/run_game.png" alt="paddle" height="300" width="600">
+            <h3>Check for collision and handle appropriately</h3>
+            <img src="./assets/images/collision_check.png" alt="collision_check" height="340" width="550">
+          </div>
       </div>
     </div>
   </body>
