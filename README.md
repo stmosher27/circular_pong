@@ -2,7 +2,7 @@
 
 #### Background
 
-[Circular Pong](https://stmosher27.github.io/js_project/) is a spin off of the original game Pong, but is a single player version.  The idea is that instead of moving side to side to send the ball back to your opponent, you will move your paddle around a circle to hit the ball back towards the middle of the circle.  The goal of the game is to keep the ball in the circle.
+[Circular Pong](https://stmosher27.github.io/circular_pong/) is a spin off of the original game Pong, but is a single player version.  The idea is that instead of moving side to side to send the ball back to your opponent, you will move your paddle around a circle to hit the ball back towards the middle of the circle.  The goal of the game is to keep the ball in the circle.
 
 ![Gameplay](assets/images/site.png)
 
