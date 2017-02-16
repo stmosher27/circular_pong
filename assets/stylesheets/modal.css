@@ -20,10 +20,11 @@
 }
 
 .modal-button {
+	margin-top: 3px;
   text-decoration: none;
   font-size: 20px;
   font-weight: bold;
-  font-family: fantasy;
+  font-family: "Lucida Console", Monaco, monospace;
   color: red;
 }
 

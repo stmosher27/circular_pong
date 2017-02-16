@@ -8,7 +8,8 @@
 .title {
   font-size: 28px;
   font-weight: bold;
-  font-family: fantasy;
+  font-family: Impact, Charcoal, sans-serif;
+  color: #498C8A;
   margin-bottom: 0;
 }
 
@@ -20,9 +21,8 @@
 }
 
 .directions h4 {
-    font-family: fantasy;
+    font-family: "Lucida Console", Monaco, monospace;
 }
-
 
 .git-img {
   height: 40px;
